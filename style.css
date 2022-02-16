@@ -1,0 +1,113 @@
+body {
+  margin: 0%;
+}
+section {
+  height: 500px;
+  margin-bottom: 150px;
+}
+.header {
+  background-image: url("images/header-bg.png");
+  padding-left: 20%;
+}
+h1 {
+  color: rgb(209, 48, 48);
+  font-size: 50px;
+}
+p {
+  margin-bottom: 20px;
+}
+#hello {
+  font-size: 40px;
+  font-family: "Gideon Roman", cursive;
+}
+.half {
+  width: 40%;
+  float: left;
+}
+.header img {
+  width: 100%;
+  padding-top: 0%;
+}
+.div1 {
+  padding-top: 10%;
+}
+.link {
+  text-decoration: none;
+  background-image: linear-gradient(
+    270deg,
+    rgb(114, 12, 114),
+    rgba(190, 0, 149, 0.651)
+  );
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 7px;
+  box-shadow: 10px 10px 40px gray;
+}
+.bio {
+  padding-left: 20%;
+  background-image: url("images/biography-bg.png");
+}
+.bio img {
+  width: 80%;
+  margin-top: 0%;
+  padding-bottom: 5%;
+}
+.top {
+  padding-top: 07%;
+}
+.work {
+  background-image: url("images/latest-work-bg.png");
+  text-align: center;
+}
+.work h2 {
+  font-size: 30px;
+}
+.l-work {
+  float: left;
+  width: 25%;
+  padding-left: 2%;
+}
+.l-work img {
+  width: 100%;
+}
+.work2 {
+  padding-left: 10%;
+}
+.footer {
+  background-image: url("images/footer-bg.png");
+  text-align: center;
+}
+.mo {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.ceo {
+  font-size: 15px;
+  color: gray;
+}
+.pra {
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  margin-bottom: 30px;
+}
+.mail {
+  background-image: linear-gradient(
+    270deg,
+    rgb(131, 38, 131),
+    rgba(197, 22, 159, 0.651)
+  );
+  padding: 20px 10px;
+  border-radius: 15px;
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 80px;
+  box-shadow: 10px 10px 40px gray;
+  color: white;
+}
+footer {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
